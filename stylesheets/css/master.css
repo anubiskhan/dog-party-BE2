@@ -22,15 +22,14 @@ main-image img {
 }
 
 .descriptions div {
+  width: 450px;
   display: inline-block;
+  margin: 0px 50px 0px 50px;
 }
 .descriptions div img {
+  align-content: center;
   border-radius: 50%;
   border: blue solid 2px;
-}
-
-.descriptions p {
-  align-self: center;
 }
 
 footer {
