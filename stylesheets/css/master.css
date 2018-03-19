@@ -21,9 +21,18 @@ main-image img {
   height: 700px;
 }
 
-.descriptions {
+.descriptions div {
   display: inline-block;
 }
+.descriptions div img {
+  border-radius: 50%;
+  border: blue solid 2px;
+}
+
+.descriptions p {
+  align-self: center;
+}
+
 footer {
   background-color: #1e97cc;
   width: 1650px;
