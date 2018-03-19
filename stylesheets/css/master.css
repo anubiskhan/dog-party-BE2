@@ -20,3 +20,30 @@ main-image img {
   width: 1650px;
   height: 700px;
 }
+
+.descriptions {
+  display: inline-block;
+}
+footer {
+  background-color: #1e97cc;
+  width: 1650px;
+  height: 200px;
+}
+
+footer center {
+  color: white;
+  padding: 20px 0px 0px 0px;
+
+}
+
+footer ul {
+  align-content: center;
+}
+
+footer ul img {
+  padding: 20px 10px 20px 10px;
+}
+
+footer a.active {
+  color: white;
+}
