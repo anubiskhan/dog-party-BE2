@@ -1,0 +1,22 @@
+nav {
+  height: 50px;
+  width: 1650px;
+  background-color: #20e5f7;
+}
+
+nav li {
+  float: right;
+  display: inline-block;
+  margin: 20px 20px 20px 10px;
+  color: white;
+}
+
+main-image {
+  width: 1650px;
+  height: 300px;
+}
+
+main-image img {
+  width: 1650px;
+  height: 700px;
+}
